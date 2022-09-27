@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KAdvanced</string>
+    <string name="lan_english">English(en)</string>
+    <string name="lan_russian">Russian(ru)</string>
+    <string name="lan_uzbek">Uzbek(uz)</string>
+
+    <plurals name="my_cats">
+        <item quantity="one">I have %s cat</item>
+        <item quantity="other">I have %s cats</item>
+    </plurals>
+
+</resources>
